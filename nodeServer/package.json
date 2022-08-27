@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "snk",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
